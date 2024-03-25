@@ -1,0 +1,13 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(21, 21, 202);
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    border-radius: 10px; /* Added border-radius to make boxes appear more square-like */
+  }
+  
+  
